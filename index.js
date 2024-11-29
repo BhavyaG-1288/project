@@ -1,3 +1,3 @@
 // first repo
 
-console.log("This is my first project")
+console.log("This is my first project 1")
